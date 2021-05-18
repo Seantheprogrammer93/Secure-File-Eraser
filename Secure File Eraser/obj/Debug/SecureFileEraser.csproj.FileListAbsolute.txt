@@ -1,0 +1,9 @@
+C:\Users\Sean\Desktop\Secure File Eraser Demo\Secure File Eraser\bin\Debug\Secure File Eraser.exe.config
+C:\Users\Sean\Desktop\Secure File Eraser Demo\Secure File Eraser\bin\Debug\Secure File Eraser.exe
+C:\Users\Sean\Desktop\Secure File Eraser Demo\Secure File Eraser\bin\Debug\Secure File Eraser.pdb
+C:\Users\Sean\Desktop\Secure File Eraser Demo\Secure File Eraser\obj\Debug\SecureFileEraser.FormMain.resources
+C:\Users\Sean\Desktop\Secure File Eraser Demo\Secure File Eraser\obj\Debug\Secure_File_Eraser.Properties.Resources.resources
+C:\Users\Sean\Desktop\Secure File Eraser Demo\Secure File Eraser\obj\Debug\SecureFileEraser.csproj.GenerateResource.cache
+C:\Users\Sean\Desktop\Secure File Eraser Demo\Secure File Eraser\obj\Debug\SecureFileEraser.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Desktop\Secure File Eraser Demo\Secure File Eraser\obj\Debug\Secure File Eraser.exe
+C:\Users\Sean\Desktop\Secure File Eraser Demo\Secure File Eraser\obj\Debug\Secure File Eraser.pdb
